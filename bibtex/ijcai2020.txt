@@ -1,0 +1,14 @@
+@inproceedings{ijcai2020-198,
+  title     = {Joint Representation Learning of Legislator and Legislation for Roll Call Prediction},
+  author    = {Yang, Yuqiao and Lin, Xiaoqiang and Lin, Geng and Huang, Zengfeng and Jiang, Changjian and Wei, Zhongyu},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Christian Bessiere},
+  pages     = {1424--1430},
+  year      = {2020},
+  month     = {7},
+  note      = {Main track}
+  doi       = {10.24963/ijcai.2020/198},
+  url       = {https://doi.org/10.24963/ijcai.2020/198},
+}

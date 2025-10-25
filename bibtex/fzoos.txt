@@ -1,0 +1,8 @@
+@misc{shu2023federated,
+      title={Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients}, 
+      author={Yao Shu and Xiaoqiang Lin and Zhongxiang Dai and Bryan Kian Hsiang Low},
+      year={2023},
+      eprint={2308.04077},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}

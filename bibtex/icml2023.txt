@@ -1,0 +1,6 @@
+@inproceedings{Lin2023,
+  author = {Xiaoqiang Lin, Xinyi Xu, See-Kiong Ng, Chuan-Sheng Foo, Bryan Kian Hsiang Low},
+  title = {Fair yet Asymptotically Equal Collaborative Learning},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML-23)},
+  year = {2023},
+}
