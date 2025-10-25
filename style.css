@@ -132,6 +132,10 @@ h1, h2, h3, h4, h5, a, p, span, body, div {font-weight: normal; font-family: 'La
     text-align: center;
   }
 
+  .header .header-right {
+    text-align: left;
+  }
+
   .header .header-profile-picture {
     margin: 0 auto 12px;
     margin-bottom: 20px;
